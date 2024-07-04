@@ -47,5 +47,27 @@ To use this project, follow these steps:
 
 1. Download the CSV file: Download the dataset from the source https://www.kaggle.com/datasets/swaptr/layoffs-2022 or u can use the csv provided in this repository.
 2. Download MySQL (if required): Download the MySQL from the source https://dev.mysql.com/downloads/mysql
-3.  Clone the repository: git clone https://github.com/yourusername/layoff-data-cleaner.git
+3. Clone the repository: git clone [https://github.com/yourusername/layoff-data-cleaner.git](https://github.com/ParabYash/Data-Analysis-SQL.git)
+4. Download the SQL code: Ensure the SQL script is downloaded to your local system.
 
+## Usage
+To clean the dataset, execute the following steps:
+
+- Ensure the CSV file is in the project directory.
+- Run the SQL script: Use your preferred SQL database management tool (e.g., MySQL, PostgreSQL) to run the provided SQL code. This script will clean and prepare the dataset for further analysis. 
+
+## Contributing
+I welcome contributions to improve Layoff Data Cleaner! To contribute:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
+
+Contact Information
+For any questions or suggestions, feel free to contact me:
+
+Email: yashparab05@gmail.com
+
+LinkedIn: www.linkedin.com/in/yash-parab-9a5a6a209
