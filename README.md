@@ -1,7 +1,8 @@
-# Project Description
-## Overview
+# Company Layoffs: Data Cleaning
+## Project Overview
 
-Layoff Data Cleaner is a comprehensive data cleaning project aimed at organizing and preparing a dataset of global company layoffs for analysis. The dataset, sourced from Kaggle, provides detailed information on company layoffs in 2022. You can find the dataset here.
+Layoff Data Cleaner is a comprehensive data cleaning project aimed at organizing and preparing a dataset of global company layoffs for analysis. The dataset, sourced from Kaggle, provides detailed information on company layoffs in 2022. You can find the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 
 ## Dataset Features
 The dataset includes the following features:
