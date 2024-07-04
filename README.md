@@ -24,7 +24,7 @@ The main objectives of this project are to:
 - Prepare for Analysis: Structure the data in a way that is suitable for analysis and visualization.
 - Ensure Accuracy: Verify the accuracy of the data through validation checks.
 
-  ## Methodology
+## Methodology
 The data cleaning process involves the following steps:
 
 - Data Import: Load the dataset from the CSV file.
@@ -41,3 +41,11 @@ Using Layoff Data Cleaner provides several benefits:
 - Improved Data Quality: Ensures that the dataset is free from errors and inconsistencies.
 - Enhanced Usability: Makes the data easier to use for analysis and decision-making.
 - Time Savings: Automates the data cleaning process, saving time and effort for data analysts and researchers.
+
+## Installation Instructions
+To use this project, follow these steps:
+
+1. Download the CSV file: Download the dataset from the source https://www.kaggle.com/datasets/swaptr/layoffs-2022 or u can use the csv provided in this repository.
+2. Download MySQL (if required): Download the MySQL from the source https://dev.mysql.com/downloads/mysql
+3.  Clone the repository: git clone https://github.com/yourusername/layoff-data-cleaner.git
+
