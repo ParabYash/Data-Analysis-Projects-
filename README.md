@@ -59,7 +59,7 @@ Exploratory Data Analysis (EDA)
 - Correlation Analysis: Examine correlations between different variables to identify potential relationships and insights.
 By following these steps, the EDA provides a comprehensive understanding of the layoff data, revealing important patterns and insights that can inform further analysis and decision-making.
 
-### Benefits
+## Benefits
 Using Layoff Data Cleaner and Explorer provides several benefits:
 
 - Improved Data Quality: Ensures that the dataset is free from errors and inconsistencies.
