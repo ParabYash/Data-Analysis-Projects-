@@ -1,7 +1,12 @@
-# Company Layoffs: Data Cleaning
+# Company Layoffs: Data Cleaning & Exploratory Data Analysis
 ## Project Overview
 
-Layoff Data Cleaner is a comprehensive data cleaning project aimed at organizing and preparing a dataset of global company layoffs for analysis. The dataset, sourced from Kaggle, provides detailed information on company layoffs in 2022. You can find the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022
+Layoff Data Cleaner and Explorer is a comprehensive project aimed at organizing, preparing, and analyzing a dataset of global company layoffs for 2022. The dataset, sourced from Kaggle, provides detailed information on company layoffs. You can find the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
+The project consists of two main parts:
+
+Data Cleaning: Ensuring the dataset is clean, consistent, and ready for analysis.
+Exploratory Data Analysis (EDA): Analyzing the cleaned dataset to uncover trends and insights.
 
 
 ## Dataset Features
@@ -20,12 +25,20 @@ The dataset includes the following features:
 ## Objectives
 The main objectives of this project are to:
 
-- Clean the Data: Handle missing values, correct inconsistencies, and standardize formats.
-- Prepare for Analysis: Structure the data in a way that is suitable for analysis and visualization.
-- Ensure Accuracy: Verify the accuracy of the data through validation checks.
+Data Cleaning:
+
+- Handle missing values, correct inconsistencies, and standardize formats.
+- Ensure the data is accurate and ready for analysis.
+
+Exploratory Data Analysis (EDA):
+
+- Analyze the cleaned dataset to identify trends and insights.
+- Perform various SQL queries to understand the extent and impact of layoffs.
 
 ## Methodology
-The data cleaning process involves the following steps:
+The project involves the following steps:
+
+Data Cleaning
 
 - Data Import: Load the dataset from the CSV file.
 - Data Inspection: Examine the data to understand its structure and identify any issues.
@@ -33,14 +46,27 @@ The data cleaning process involves the following steps:
 - Data Standardization: Ensure consistency in data formats, such as date and numerical values.
 - Data Validation: Perform checks to validate the accuracy and integrity of the data.
 - Export Cleaned Data: Save the cleaned dataset for further analysis.
-By following these steps, Layoff Data Cleaner transforms the raw dataset into a cleaned and well-structured format, ready for various analytical tasks such as trend analysis, visualization, and reporting.
 
-## Benefits
-Using Layoff Data Cleaner provides several benefits:
+Exploratory Data Analysis (EDA)
+
+- Data Overview: Review the cleaned dataset to understand its structure and key features.
+- Descriptive Statistics: Generate summary statistics to understand the distribution and central tendencies of the data.
+- Trend Analysis: Examine trends over time, such as the number of layoffs per month or year.
+- Industry Analysis: Analyze layoffs by industry to identify which sectors were most affected.
+- Geographical Analysis: Investigate the geographical distribution of layoffs, including by country and location.
+- Company Analysis: Identify companies with the highest number of layoffs and those with significant layoff percentages.
+- Funding Analysis: Explore the relationship between layoffs and the funding stages or amounts raised by companies.
+- Correlation Analysis: Examine correlations between different variables to identify potential relationships and insights.
+By following these steps, the EDA provides a comprehensive understanding of the layoff data, revealing important patterns and insights that can inform further analysis and decision-making.
+
+### Benefits
+Using Layoff Data Cleaner and Explorer provides several benefits:
 
 - Improved Data Quality: Ensures that the dataset is free from errors and inconsistencies.
 - Enhanced Usability: Makes the data easier to use for analysis and decision-making.
+- In-depth Insights: Provides comprehensive analysis through EDA to uncover trends and patterns.
 - Time Savings: Automates the data cleaning process, saving time and effort for data analysts and researchers.
+
 
 ## Installation Instructions
 To use this project, follow these steps:
