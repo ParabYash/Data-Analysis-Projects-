@@ -5,8 +5,8 @@ Layoff Data Cleaner and Explorer is a comprehensive project aimed at organizing,
 
 The project consists of two main parts:
 
-Data Cleaning: Ensuring the dataset is clean, consistent, and ready for analysis.
-Exploratory Data Analysis (EDA): Analyzing the cleaned dataset to uncover trends and insights.
+1. Data Cleaning: Ensuring the dataset is clean, consistent, and ready for analysis.
+2. Exploratory Data Analysis (EDA): Analyzing the cleaned dataset to uncover trends and insights.
 
 
 ## Dataset Features
